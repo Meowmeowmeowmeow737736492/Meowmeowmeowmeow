@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Meowmeowmeowmeow737736492/Meowmeowmeowmeow/refs/heads/main/Mahito(1).txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Meowmeowmeowmeow737736492/Meowmeowmeowmeow/refs/heads/main/Mahito(2).txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Meowmeowmeowmeow737736492/Meowmeowmeowmeow/refs/heads/main/Mahito(3).txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Meowmeowmeowmeow737736492/Meowmeowmeowmeow/refs/heads/main/Mahito(4).txt'))()
