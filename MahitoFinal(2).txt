@@ -1,0 +1,10 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Meowmeowmeowmeow737736492/Meowmeowmeowmeow/refs/heads/main/MahitoFinal.txt'))()
+task.wait(0.1)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Meowmeowmeowmeow737736492/Meowmeowmeowmeow/refs/heads/main/Mahito(5).txt'))()
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local humanoid = player.Character.Humanoid
+while true do
+    humanoid.AutoRotate = true
+    wait(0)
+end
